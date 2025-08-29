@@ -6,9 +6,9 @@ Welcome to the Bay Area Machine Learning Study Group - a collaborative community
 
 | Session | Schedule | Time (PT) | Meeting Link |
 |---------|----------|-----------|--------------|
-| LeetCode Practice | Mon-Fri | 1:00 PM - 3:00 PM | [Join Meet](https://meet.google.com/coj-xsef-aem) |
-| System Design | Mon-Fri | 10:00 AM - 12:00 PM | [Join Meet](https://meet.google.com/coj-xsef-aem) |
-| ML System Design | Mon/Wed/Fri | 8:30 PM - 10:00 PM | [Join Meet](https://meet.google.com/coj-xsef-aem) |
+| LeetCode Practice | Mon-Fri | 1:00 PM - 3:00 PM | Check WhatsApp Group for Link |
+| System Design | Mon-Fri | 10:00 AM - 12:00 PM | Check WhatsApp Group for Link  |
+| ML System Design | Mon/Wed/Fri | 8:30 PM - 10:00 PM | Check WhatsApp Group for Link  |
 
 > **Note**: Session schedules may vary based on member availability. Please refer to our WhatsApp Group for real-time updates and confirmations.
 
