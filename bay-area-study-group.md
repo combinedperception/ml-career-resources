@@ -69,7 +69,7 @@ Welcome to the Bay Area Machine Learning Study Group - a collaborative community
 - 📘 Chapter 10: Personalized News Feed
 - 📘 Chapter 11: People You May Know
 
-> **Progress**: 2/11 chapters completed | Next session: Monday, Sep 1
+> **Progress**: 3/11 chapters completed | Next session: Monday, Sep 1
 
 
 **Resources**:
