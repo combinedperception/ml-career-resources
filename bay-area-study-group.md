@@ -30,6 +30,7 @@ Welcome to the Bay Area Machine Learning Study Group - a collaborative community
 
 *Upcoming (Sept 10)*
 - 📅 Chapter 6: Model Development and Training
+
 *To Be Scheduled*
 - 📘 Chapter 7: Model Deployment and Prediction Service
 - 📘 Chapter 8: Data Distribution Shifts and Monitoring
