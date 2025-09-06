@@ -25,8 +25,8 @@ Welcome to the Bay Area Machine Learning Study Group - a collaborative community
 - ✅ Chapter 1: ~~Overview of Machine Learning Systems~~
 - ✅ Chapter 2: ~~ML Project Lifecycle~~
 - ✅ Chapter 3: ~~Data Engineering Fundamentals~~
-- ✅ Chapter 4: Training Data
-- ✅ Chapter 5: Feature Engineering
+- ✅ Chapter 4: ~~Training Data~~
+- ✅ Chapter 5: ~~Feature Engineering~~
 
 *Upcoming (Sept 10)*
 - 📅 Chapter 6: Model Development and Training
@@ -53,7 +53,7 @@ Welcome to the Bay Area Machine Learning Study Group - a collaborative community
 *Completed*
 - ✅ Chapter 1: ~~Introduction and Overview~~
 - ✅ Chapter 8: ~~Ad Click Prediction on Social Platforms~~
-- ✅ Chapter 2: Visual Search System
+- ✅ Chapter 2: ~~Visual Search System~~
 
 *Upcoming (Sep 8)*
 - 📅 Chapter 3: Google Street View Blurring System
