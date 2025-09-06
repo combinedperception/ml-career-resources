@@ -43,6 +43,7 @@ Welcome to the Bay Area Machine Learning Study Group - a collaborative community
 **Access Options**:
 - 📖 [Early Release Version (PDF)](https://32931414.s21i.faiusr.com/61/ABUIABA9GAAglOm9ugYomtWegAU.pdf)
 - 🎓 [O'Reilly Platform](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/ch01.html) (Free trial available)
+- **Recommended Option**: Get a subscription to your local library like [SFPL](https://sfpl.org) this will allow you to access O'Reilly for free :)  
 
 ### 2. Machine Learning System Design Interview
 **Authors**: Ali Aminian & Alex Xu (ByteByteGo)  
