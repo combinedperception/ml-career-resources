@@ -25,20 +25,19 @@ Welcome to the Bay Area Machine Learning Study Group - a collaborative community
 - ✅ Chapter 1: ~~Overview of Machine Learning Systems~~
 - ✅ Chapter 2: ~~ML Project Lifecycle~~
 - ✅ Chapter 3: ~~Data Engineering Fundamentals~~
+- ✅ Chapter 4: Training Data
+- ✅ Chapter 5: Feature Engineering
 
-*Upcoming (Aug 29)*
-- 📅 Chapter 4: Training Data
-- 📅 Chapter 5: Feature Engineering
-
+*Upcoming (Sept 10)*
+- 📅 Chapter 6: Model Development and Training
 *To Be Scheduled*
-- 📘 Chapter 6: Model Development and Training
 - 📘 Chapter 7: Model Deployment and Prediction Service
 - 📘 Chapter 8: Data Distribution Shifts and Monitoring
 - 📘 Chapter 9: Continual Learning and Test in Production
 - 📘 Chapter 10: Infrastructure and Tooling for MLOps
 - 📘 Chapter 11: The Human Side of Machine Learning
 
-> **Progress**: 3/11 chapters completed | Next session: Friday, Aug 29
+> **Progress**: 5/11 chapters completed | Next session: Friday, Aug 29
 
 **Access Options**:
 - 📖 [Early Release Version (PDF)](https://32931414.s21i.faiusr.com/61/ABUIABA9GAAglOm9ugYomtWegAU.pdf)
@@ -54,9 +53,11 @@ Welcome to the Bay Area Machine Learning Study Group - a collaborative community
 *Completed*
 - ✅ Chapter 1: ~~Introduction and Overview~~
 - ✅ Chapter 8: ~~Ad Click Prediction on Social Platforms~~
+- ✅ Chapter 2: Visual Search System
 
-*Upcoming (Sep 1)*
-- 📅 Chapter 2: Visual Search System
+*Upcoming (Sep 8)*
+- 📅 Chapter 3: Google Street View Blurring System
+
 
 *To Be Scheduled*
 - 📘 Chapter 3: Google Street View Blurring System
@@ -104,4 +105,4 @@ Welcome to the Bay Area Machine Learning Study Group - a collaborative community
 We encourage active participation and leadership from all members. If a scheduled host is unavailable, we welcome other members to lead the session, fostering a truly collaborative learning environment.
 
 ---
-*Last Updated: August 28, 2025*
+*Last Updated: Sept 5th, 2025*
