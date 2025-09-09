@@ -58,13 +58,12 @@ Welcome to the Bay Area Machine Learning Study Group - a collaborative community
 - ✅ Chapter 2: ~~Visual Search System~~
 
 *Upcoming (Sep 8)*
-- 📅 Chapter 3: Google Street View Blurring System
+- 📅 Chapter 5: Harmful Content Detection
 
 
 *To Be Scheduled*
 - 📘 Chapter 3: Google Street View Blurring System
 - 📘 Chapter 4: YouTube Video Search
-- 📘 Chapter 5: Harmful Content Detection
 - 📘 Chapter 6: Video Recommendation System
 - 📘 Chapter 7: Event Recommendation System
 - 📘 Chapter 9: Similar Listings on Vacation Rental Platforms
